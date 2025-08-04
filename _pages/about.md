@@ -4,4 +4,4 @@ Prior to my doctoral studies, I received my B.S. in mathematics with computer sc
 
 I am on the 2025-2026 academic job market.
 
-My CV can be found here. You can contact me at jzou@g.harvard.edu.
+My CV can be found [here](../files/CV_aug25.pdf). You can contact me at jzou@g.harvard.edu.
