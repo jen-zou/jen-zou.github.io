@@ -188,11 +188,6 @@ exclude:
   - README
   - tmp
   - vendor
-  - _pages/markdown.md
-  - _pages/publications.html
-  - _pages/sitemap.md
-  - _pages/cv.md
-  - _pages/cv-json.md
 keep_files:
   - .git
   - .svn
