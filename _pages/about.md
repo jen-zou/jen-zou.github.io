@@ -10,4 +10,4 @@ I am a Ph.D. candidate in Business Economics at Harvard University. My research 
 
 Prior to my doctoral studies, I received my B.S. in mathematics with computer science and in economics from MIT.
 
-I am on the 2025-2026 academic job market. You can find my job market paper here and my CV [here](https://jen-zou.github.io/cv/). I can be reached at [jzou@g.harvard.edu](mailto:jzou@g.harvard.edu).
+I am on the 2025-2026 academic job market. You can find my job market paper [here](https://drive.google.com/file/d/1IuxGOfyKjbDcl8eF48BrByPT3lgdMlUY/view?usp=sharing) and my CV [here](https://jen-zou.github.io/cv/). I can be reached at [jzou@g.harvard.edu](mailto:jzou@g.harvard.edu).
